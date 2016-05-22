@@ -1,4 +1,4 @@
-## Fscoiety theme for [Fisherman][wahoo].
+## Fscoiety theme for [[Fisherman]](https://github.com/fisherman/fisherman).
 
 
 
@@ -31,4 +31,4 @@ $ fisher c0b41/fscoiety
 </p>
 # License
 
-[MIT][mit] © [c0b41][author] et [al][contributors] :heart:
+[MIT] © [c0b41](https:github.com/c0b41) et [al](https:github.com/c0b41/fscoiety/contributors) :heart:
