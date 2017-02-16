@@ -1,4 +1,4 @@
-## Fscoiety theme for [[Fisherman]](https://github.com/fisherman/fisherman).
+## Fsociety theme for [[Fisherman]](https://github.com/fisherman/fisherman).
 
 
 
@@ -6,7 +6,7 @@
 
 
 ```fish
-$ fisher c0b41/fscoiety
+$ fisher c0b41/fsociety
 ```
 
 
@@ -18,10 +18,9 @@ $ fisher c0b41/fscoiety
 
 ## Screenshot
 
-<img src="./screenshots/1.png">
-<img src="./screenshots/2.png">
+<img src="./screenshots/screenshot.png">
 
 
 # License
 
-[MIT] © [c0b41](https:github.com/c0b41) et [al](https:github.com/c0b41/fscoiety/contributors) :heart:
+[MIT] © [c0b41](https:github.com/c0b41) et [al](https:github.com/c0b41/fsociety/contributors) :heart:
