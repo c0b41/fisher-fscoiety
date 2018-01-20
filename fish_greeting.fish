@@ -1,4 +1,3 @@
 function fish_greeting
-  echo " Tekrar hoşgeldin, $nickname."
-  echo " Günlük komutlar [ happiness ] [ worktime ] [ garden ] [ havadurumu ]"
+  echo " Tekrar hosgeldin, $nickname."
 end
