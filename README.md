@@ -12,8 +12,10 @@ $ fisher c0b41/fsociety
 
 ## Features
 
-+ Nodejs version
-+ Git status
++ Node Version
++ Git Status
++ Git Branch
++ Php Version
 
 
 ## Screenshot
